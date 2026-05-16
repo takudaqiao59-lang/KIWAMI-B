@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="36" viewBox="0 0 160 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="36" rx="8" fill="#0A0A0A"/>
+  <path d="M18 26V10H24.6L30.4 20.6L36.2 10H42V26H36.6V15.6L31.2 26H28.4L23.8 15.6V26H18Z" fill="#D02020"/>
+  <text x="52" y="24" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="16" font-weight="600">KIWAMI</text>
+  <circle cx="116" cy="18" r="4" fill="#D02020"/>
+</svg>
